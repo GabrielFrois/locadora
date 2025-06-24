@@ -1,0 +1,614 @@
+[
+    {
+        "id_filme": 1,
+        "titulo": "Um Sonho de Liberdade",
+        "titulo_original": "The Shawshank Redemption",
+        "ano": 1994,
+        "diretor": "Frank Darabont",
+        "sinopse": "Após ser condenado injustamente, um banqueiro cria uma amizade duradoura enquanto aguarda sua chance de liberdade e redenção.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 2,
+        "titulo": "O Poderoso Chefão",
+        "titulo_original": "The Godfather",
+        "ano": 1972,
+        "diretor": "Francis Ford Coppola",
+        "sinopse": "A saga da família mafiosa Corleone, liderada por Don Vito, que lida com poder, família e traição.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 3,
+        "titulo": "A Lista de Schindler",
+        "titulo_original": "Schindler's List",
+        "ano": 1993,
+        "diretor": "Steven Spielberg",
+        "sinopse": "A história real de Oskar Schindler, que salvou mais de mil judeus do Holocausto.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 4,
+        "titulo": "Tempo de Violência",
+        "titulo_original": "Pulp Fiction",
+        "ano": 1994,
+        "diretor": "Quentin Tarantino",
+        "sinopse": "Histórias interligadas de criminosos em Los Angeles, com diálogos marcantes e narrativa não-linear.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 5,
+        "titulo": "O Poderoso Chefão II",
+        "titulo_original": "The Godfather: Part II",
+        "ano": 1974,
+        "diretor": "Francis Ford Coppola",
+        "sinopse": "Continua a história de Michael Corleone, intercalando com o ascenso de seu pai, Vito.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 6,
+        "titulo": "Clube da Luta",
+        "titulo_original": "Fight Club",
+        "ano": 1999,
+        "diretor": "David Fincher",
+        "sinopse": "Um homem descontente e seu alter ego criminoso fundam um clube de luta subversivo e anárquico.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 7,
+        "titulo": "Uma História de Vida",
+        "titulo_original": "Forrest Gump",
+        "ano": 1994,
+        "diretor": "Robert Zemeckis",
+        "sinopse": "A vida extraordinária de Forrest Gump, que testemunha e influencia momentos históricos.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 8,
+        "titulo": "Matrix",
+        "titulo_original": "The Matrix",
+        "ano": 1999,
+        "diretor": "Lana & Lilly Wachowski",
+        "sinopse": "Um hacker descobre a realidade virtual em que vive e lidera a rebelião contra as máquinas.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 9,
+        "titulo": "Seven: Os Sete Crimes Capitais",
+        "titulo_original": "Se7en",
+        "ano": 1995,
+        "diretor": "David Fincher",
+        "sinopse": "Dois detetives perseguem um serial killer que escolhe vítimas segundo os sete pecados capitais.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 10,
+        "titulo": "O Silêncio dos Inocentes",
+        "titulo_original": "The Silence of the Lambs",
+        "ano": 1991,
+        "diretor": "Jonathan Demme",
+        "sinopse": "Uma jovem agente do FBI busca a ajuda do canibal Hannibal Lecter para capturar outro assassino.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 11,
+        "titulo": "O Resgate do Soldado Ryan",
+        "titulo_original": "Saving Private Ryan",
+        "ano": 1998,
+        "diretor": "Steven Spielberg",
+        "sinopse": "Durante a Segunda Guerra, um grupo de soldados tenta salvar um paraquedista cuja família foi dizimada.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 12,
+        "titulo": "Os Suspeitos",
+        "titulo_original": "The Usual Suspects",
+        "ano": 1995,
+        "diretor": "Bryan Singer",
+        "sinopse": "Detetives interrogam os suspeitos de um crime violento, levando ao enigmático Keyser Söze.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 13,
+        "titulo": "Titanic",
+        "titulo_original": "Titanic",
+        "ano": 1997,
+        "diretor": "James Cameron",
+        "sinopse": "Um romance proibido no famoso navio que afunda em sua jornada inaugural.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 14,
+        "titulo": "O Profissional",
+        "titulo_original": "Léon: The Professional",
+        "ano": 1994,
+        "diretor": "Luc Besson",
+        "sinopse": "Um assassino de aluguel solitário forma um vínculo inesperado com uma garota órfã.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 15,
+        "titulo": "Os Bons Companheiros",
+        "titulo_original": "Goodfellas",
+        "ano": 1990,
+        "diretor": "Martin Scorsese",
+        "sinopse": "A ascensão e queda de Henry Hill na máfia.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 17,
+        "titulo": "Beleza Americana",
+        "titulo_original": "American Beauty",
+        "ano": 1999,
+        "diretor": "Sam Mendes",
+        "sinopse": "A crise existencial de um homem comum que decide mudar radicalmente sua vida.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 18,
+        "titulo": "Coração Valente",
+        "titulo_original": "Braveheart",
+        "ano": 1995,
+        "diretor": "Mel Gibson",
+        "sinopse": "A história de William Wallace e sua luta pela independência da Escócia.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 19,
+        "titulo": "O Tigre e o Dragão",
+        "titulo_original": "Crouching Tiger, Hidden Dragon",
+        "ano": 2000,
+        "diretor": "Ang Lee",
+        "sinopse": "Um guerreiro e uma mulher lutam para recuperar uma espada roubada, com coreografias lendárias.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 20,
+        "titulo": "Gladiator",
+        "titulo_original": "Gladiator",
+        "ano": 2000,
+        "diretor": "Ridley Scott",
+        "sinopse": "Um general romano é traído e se torna gladiador, buscando justiça e vingança.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 23,
+        "titulo": "A New Hope",
+        "titulo_original": "Star Wars: Episode IV",
+        "ano": 1977,
+        "diretor": "George Lucas",
+        "sinopse": "Luke Skywalker embarca numa jornada para salvar a galáxia do Império com a ajuda de novos aliados.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 24,
+        "titulo": "The Green Mile",
+        "titulo_original": "The Green Mile",
+        "ano": 1999,
+        "diretor": "Frank Darabont",
+        "sinopse": "Guardas do corredor da morte vivenciam eventos milagrosos após a chegada de um prisioneiro com poderes.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 25,
+        "titulo": "Terminator 2: Judgment Day",
+        "titulo_original": "Terminator 2: Judgment Day",
+        "ano": 1991,
+        "diretor": "James Cameron",
+        "sinopse": "Um cyborg reprogramado protege um garoto do futuro enquanto tenta prevenir um apocalipse.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 26,
+        "titulo": "Back to the Future",
+        "titulo_original": "Back to the Future",
+        "ano": 1985,
+        "diretor": "Robert Zemeckis",
+        "sinopse": "Marty McFly retorna acidentalmente aos anos 50 e precisa reparar os laços de seus pais para voltar ao futuro.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 27,
+        "titulo": "American History X",
+        "titulo_original": "American History X",
+        "ano": 1998,
+        "diretor": "Tony Kaye",
+        "sinopse": "Um ex-nazista neonazista tenta impedir o irmão de seguir pelo mesmo caminho de ódio.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 28,
+        "titulo": "Leon: The Professional",
+        "titulo_original": "Leon: The Professional",
+        "ano": 1994,
+        "diretor": "Luc Besson",
+        "sinopse": "Um assassino profissional relutantemente protege uma menina órfã, criando uma conexão profunda.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 29,
+        "titulo": "Cinema Paradiso",
+        "titulo_original": "Cinema Paradiso",
+        "ano": 1988,
+        "diretor": "Giuseppe Tornatore",
+        "sinopse": "Recordações de infância de um garoto apaixonado por cinema e seu mentor, o projecionista Alfredo.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 30,
+        "titulo": "The Sixth Sense",
+        "titulo_original": "The Sixth Sense",
+        "ano": 1999,
+        "diretor": "M. Night Shyamalan",
+        "sinopse": "Um menino que vê pessoas mortas busca ajuda de um psicólogo com traumas próprios.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 31,
+        "titulo": "Reféns em Alto-Mar",
+        "titulo_original": "Das Boot",
+        "ano": 1981,
+        "diretor": "Wolfgang Petersen",
+        "sinopse": "Tripulação de um submarino alemão vive tensão, claustrofobia e medo durante escoltas no Atlântico.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 32,
+        "titulo": "Good Will Hunting",
+        "titulo_original": "Good Will Hunting",
+        "ano": 1997,
+        "diretor": "Gus Van Sant",
+        "sinopse": "Um jovem prodígio matemático precisa enfrentar seus traumas para realizar seu potencial.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 33,
+        "titulo": "Die Hard",
+        "titulo_original": "Die Hard",
+        "ano": 1988,
+        "diretor": "John McTiernan",
+        "sinopse": "Um policial enfrenta terroristas sozinho dentro de um edifício durante véspera de Natal.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 34,
+        "titulo": "Se7en",
+        "titulo_original": "Se7en",
+        "ano": 1995,
+        "diretor": "David Fincher",
+        "sinopse": "Dois detetives caçam um serial killer que baseia seus crimes nos sete pecados capitais.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 35,
+        "titulo": "Forrest Gump",
+        "titulo_original": "Forrest Gump",
+        "ano": 1994,
+        "diretor": "Robert Zemeckis",
+        "sinopse": "A vida extraordinária de Forrest, cuja ingenuidade o leva a testemunhar marcos históricos.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 36,
+        "titulo": "The Silence of the Lambs",
+        "titulo_original": "The Silence of the Lambs",
+        "ano": 1991,
+        "diretor": "Jonathan Demme",
+        "sinopse": "Uma agente do FBI busca ajuda de um assassino canibal para capturar outro serial killer.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 37,
+        "titulo": "Alien",
+        "titulo_original": "Alien",
+        "ano": 1979,
+        "diretor": "Ridley Scott",
+        "sinopse": "A tripulação de uma nave espacial enfrenta uma forma de vida alienígena letal.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 40,
+        "titulo": "Apocalypse Now",
+        "titulo_original": "Apocalypse Now",
+        "ano": 1979,
+        "diretor": "Francis Ford Coppola",
+        "sinopse": "Um capitão viaja pelo Vietnã profundo para encontrar e eliminar um coronel fora da lei.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 41,
+        "titulo": "Jaws",
+        "titulo_original": "Jaws",
+        "ano": 1975,
+        "diretor": "Steven Spielberg",
+        "sinopse": "Um tubarão gigante aterroriza uma cidade litorânea, levando autoridades a organizar caça mortal.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 42,
+        "titulo": "Taxi Driver",
+        "titulo_original": "Taxi Driver",
+        "ano": 1976,
+        "diretor": "Martin Scorsese",
+        "sinopse": "Um veterano solitário se torna vigilante nas ruas sujas de Nova York.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 43,
+        "titulo": "The Lion King",
+        "titulo_original": "The Lion King",
+        "ano": 1994,
+        "diretor": "Roger Allers & Rob Minkoff",
+        "sinopse": "Um jovem leão foge após a morte de seu pai e retorna para assumir seu lugar como rei.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 45,
+        "titulo": "Blade Runner",
+        "titulo_original": "Blade Runner",
+        "ano": 1982,
+        "diretor": "Ridley Scott",
+        "sinopse": "Um caçador de replicantes caça androides fugitivos em uma sombrio futuro distópico.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 46,
+        "titulo": "Saving Private Ryan",
+        "titulo_original": "Saving Private Ryan",
+        "ano": 1998,
+        "diretor": "Steven Spielberg",
+        "sinopse": "Durante a 2ª Guerra, um tiroteio épico na Normandia dá início a uma missão para salvar um soldado.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 51,
+        "titulo": "Fanny and Alexander",
+        "titulo_original": "Fanny and Alexander",
+        "ano": 1982,
+        "diretor": "Ingmar Bergman",
+        "sinopse": "Através da experiência de dois irmãos, o filme explora memória, família e magia em Uppsala.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 53,
+        "titulo": "Chinatown",
+        "titulo_original": "Chinatown",
+        "ano": 1974,
+        "diretor": "Roman Polanski",
+        "sinopse": "Um detetive particular se envolve em uma trama de corrupção e mistério relacionada à água em Los Angeles.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 54,
+        "titulo": "Glory",
+        "titulo_original": "Glory",
+        "ano": 1989,
+        "diretor": "Edward Zwick",
+        "sinopse": "A história de um regimento de soldados afro-americanos lutando na Guerra Civil dos EUA.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 57,
+        "titulo": "Raiders of the Lost Ark",
+        "titulo_original": "Raiders of the Lost Ark",
+        "ano": 1981,
+        "diretor": "Steven Spielberg",
+        "sinopse": "Indiana Jones parte em busca da Arca da Aliança antes de nazistas encontrá-la.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 58,
+        "titulo": "Raging Bull",
+        "titulo_original": "Raging Bull",
+        "ano": 1980,
+        "diretor": "Martin Scorsese",
+        "sinopse": "A turbulenta vida do boxeador Jake LaMotta, entre ringue e relacionamentos destrutivos.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 59,
+        "titulo": "One Flew Over the Cuckoo’s Nest",
+        "titulo_original": "One Flew Over the Cuckoo’s Nest",
+        "ano": 1975,
+        "diretor": "Miloš Forman",
+        "sinopse": "Um prisioneiro que simula insanidade desafia o controle rígido de uma enfermeira em um hospital psiquiátrico.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 65,
+        "titulo": "Top Gun",
+        "titulo_original": "Top Gun",
+        "ano": 1986,
+        "diretor": "Tony Scott",
+        "sinopse": "Pilotos de elite competem na academia Top Gun, com adrenalina, romance e rivalidade.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 68,
+        "titulo": "A Clockwork Orange",
+        "titulo_original": "A Clockwork Orange",
+        "ano": 1971,
+        "diretor": "Stanley Kubrick",
+        "sinopse": "Jovem violento é submetido a um tratamento que condiciona seu comportamento.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 49,
+        "titulo": "Dog Day Afternoon",
+        "titulo_original": "Dog Day Afternoon",
+        "ano": 1975,
+        "diretor": "Sidney Lumet",
+        "sinopse": "Um assalto a banco vira espetáculo da mídia e caos nas ruas.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 50,
+        "titulo": "Patton",
+        "titulo_original": "Patton",
+        "ano": 1970,
+        "diretor": "Franklin J. Schaffner",
+        "sinopse": "Biografia do general George S. Patton durante a Segunda Guerra Mundial.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 51,
+        "titulo": "Close Encounters of the Third Kind",
+        "titulo_original": "Close Encounters of the Third Kind",
+        "ano": 1977,
+        "diretor": "Steven Spielberg",
+        "sinopse": "Contatos alienígenas transformam a vida de um homem comum.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 52,
+        "titulo": "The French Connection",
+        "titulo_original": "The French Connection",
+        "ano": 1971,
+        "diretor": "William Friedkin",
+        "sinopse": "Dois detetives seguem uma rede de tráfico de heroína.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 53,
+        "titulo": "Midnight Express",
+        "titulo_original": "Midnight Express",
+        "ano": 1978,
+        "diretor": "Alan Parker",
+        "sinopse": "Um americano é preso por tráfico de drogas na Turquia.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 54,
+        "titulo": "Amadeus",
+        "titulo_original": "Amadeus",
+        "ano": 1984,
+        "diretor": "Milos Forman",
+        "sinopse": "Rivalidade entre Salieri e Mozart no século XVIII.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 55,
+        "titulo": "The Elephant Man",
+        "titulo_original": "The Elephant Man",
+        "ano": 1980,
+        "diretor": "David Lynch",
+        "sinopse": "História real de John Merrick, deformado mas com alma nobre.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 56,
+        "titulo": "The Killing Fields",
+        "titulo_original": "The Killing Fields",
+        "ano": 1984,
+        "diretor": "Roland Joffé",
+        "sinopse": "O regime do Khmer Vermelho visto por jornalistas no Camboja.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 57,
+        "titulo": "The Untouchables",
+        "titulo_original": "The Untouchables",
+        "ano": 1987,
+        "diretor": "Brian De Palma",
+        "sinopse": "Eliot Ness combate Al Capone durante a Lei Seca.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 58,
+        "titulo": "Dead Poets Society",
+        "titulo_original": "Dead Poets Society",
+        "ano": 1989,
+        "diretor": "Peter Weir",
+        "sinopse": "Professor inspira seus alunos a pensar por si mesmos.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 59,
+        "titulo": "Rain Man",
+        "titulo_original": "Rain Man",
+        "ano": 1988,
+        "diretor": "Barry Levinson",
+        "sinopse": "Um homem descobre que tem um irmão autista com memória extraordinária.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 60,
+        "titulo": "Platoon",
+        "titulo_original": "Platoon",
+        "ano": 1986,
+        "diretor": "Oliver Stone",
+        "sinopse": "Relato visceral da Guerra do Vietnã sob perspectiva de um jovem soldado.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 61,
+        "titulo": "Thelma & Louise",
+        "titulo_original": "Thelma & Louise",
+        "ano": 1991,
+        "diretor": "Ridley Scott",
+        "sinopse": "Duas amigas se rebelam e fogem após um crime inesperado.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 62,
+        "titulo": "The Fugitive",
+        "titulo_original": "The Fugitive",
+        "ano": 1993,
+        "diretor": "Andrew Davis",
+        "sinopse": "Médico acusado injustamente foge e busca o verdadeiro culpado.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 63,
+        "titulo": "Heat",
+        "titulo_original": "Heat",
+        "ano": 1995,
+        "diretor": "Michael Mann",
+        "sinopse": "Policial e ladrão se enfrentam em confronto psicológico e tático.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 64,
+        "titulo": "As Good as It Gets",
+        "titulo_original": "As Good as It Gets",
+        "ano": 1997,
+        "diretor": "James L. Brooks",
+        "sinopse": "Um escritor misantropo muda com a ajuda de uma garçonete e um artista.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 65,
+        "titulo": "Donnie Brasco",
+        "titulo_original": "Donnie Brasco",
+        "ano": 1997,
+        "diretor": "Mike Newell",
+        "sinopse": "Agente do FBI se infiltra na máfia e forma laços perigosos.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 66,
+        "titulo": "Sleepers",
+        "titulo_original": "Sleepers",
+        "ano": 1996,
+        "diretor": "Barry Levinson",
+        "sinopse": "Amigos buscam justiça anos após abuso em reformatório.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 67,
+        "titulo": "The Rock",
+        "titulo_original": "The Rock",
+        "ano": 1996,
+        "diretor": "Michael Bay",
+        "sinopse": "Agentes tentam impedir ataque químico a partir de Alcatraz.",
+        "capa_url": ""
+    },
+    {
+        "id_filme": 68,
+        "titulo": "Face/Off",
+        "titulo_original": "Face/Off",
+        "ano": 1997,
+        "diretor": "John Woo",
+        "sinopse": "Policial troca de rosto com terrorista para evitar atentado.",
+        "capa_url": ""
+    }
+]
