@@ -1,0 +1,352 @@
+[
+  {
+    "id_pagamento": 1,
+    "id_locacao": 1,
+    "valor": 14.83,
+    "data_pagamento": "2001-11-27",
+    "forma_pagamento": "cartão"
+  },
+  {
+    "id_pagamento": 2,
+    "id_locacao": 2,
+    "valor": 12.11,
+    "data_pagamento": "2002-10-31",
+    "forma_pagamento": "dinheiro"
+  },
+  {
+    "id_pagamento": 3,
+    "id_locacao": 3,
+    "valor": 8.13,
+    "data_pagamento": "2002-04-19",
+    "forma_pagamento": "boleto"
+  },
+  {
+    "id_pagamento": 4,
+    "id_locacao": 4,
+    "valor": 6.37,
+    "data_pagamento": "2001-08-12",
+    "forma_pagamento": "boleto"
+  },
+  {
+    "id_pagamento": 5,
+    "id_locacao": 5,
+    "valor": 5.39,
+    "data_pagamento": "2001-09-13",
+    "forma_pagamento": "boleto"
+  },
+  {
+    "id_pagamento": 6,
+    "id_locacao": 6,
+    "valor": 6.43,
+    "data_pagamento": "2002-12-25",
+    "forma_pagamento": "cartão"
+  },
+  {
+    "id_pagamento": 7,
+    "id_locacao": 7,
+    "valor": 6.36,
+    "data_pagamento": "2002-11-16",
+    "forma_pagamento": "cartão"
+  },
+  {
+    "id_pagamento": 8,
+    "id_locacao": 8,
+    "valor": 6.6,
+    "data_pagamento": "2001-04-25",
+    "forma_pagamento": "boleto"
+  },
+  {
+    "id_pagamento": 9,
+    "id_locacao": 9,
+    "valor": 12.2,
+    "data_pagamento": "2002-09-20",
+    "forma_pagamento": "boleto"
+  },
+  {
+    "id_pagamento": 10,
+    "id_locacao": 10,
+    "valor": 13.19,
+    "data_pagamento": "2002-10-20",
+    "forma_pagamento": "boleto"
+  },
+  {
+    "id_pagamento": 11,
+    "id_locacao": 11,
+    "valor": 13.66,
+    "data_pagamento": "2001-09-23",
+    "forma_pagamento": "boleto"
+  },
+  {
+    "id_pagamento": 12,
+    "id_locacao": 12,
+    "valor": 11.47,
+    "data_pagamento": "2002-10-19",
+    "forma_pagamento": "cartão"
+  },
+  {
+    "id_pagamento": 13,
+    "id_locacao": 13,
+    "valor": 11.53,
+    "data_pagamento": "2001-12-15",
+    "forma_pagamento": "boleto"
+  },
+  {
+    "id_pagamento": 14,
+    "id_locacao": 14,
+    "valor": 11.32,
+    "data_pagamento": "2002-04-07",
+    "forma_pagamento": "dinheiro"
+  },
+  {
+    "id_pagamento": 15,
+    "id_locacao": 15,
+    "valor": 7.04,
+    "data_pagamento": "2001-04-30",
+    "forma_pagamento": "dinheiro"
+  },
+  {
+    "id_pagamento": 16,
+    "id_locacao": 16,
+    "valor": 7.71,
+    "data_pagamento": "2002-01-19",
+    "forma_pagamento": "dinheiro"
+  },
+  {
+    "id_pagamento": 17,
+    "id_locacao": 17,
+    "valor": 7.08,
+    "data_pagamento": "2001-02-15",
+    "forma_pagamento": "dinheiro"
+  },
+  {
+    "id_pagamento": 18,
+    "id_locacao": 18,
+    "valor": 6.03,
+    "data_pagamento": "2002-12-04",
+    "forma_pagamento": "boleto"
+  },
+  {
+    "id_pagamento": 19,
+    "id_locacao": 19,
+    "valor": 14.6,
+    "data_pagamento": "2002-08-05",
+    "forma_pagamento": "cartão"
+  },
+  {
+    "id_pagamento": 20,
+    "id_locacao": 20,
+    "valor": 17.02,
+    "data_pagamento": "2001-06-16",
+    "forma_pagamento": "dinheiro"
+  },
+  {
+    "id_pagamento": 21,
+    "id_locacao": 21,
+    "valor": 15.42,
+    "data_pagamento": "2001-07-09",
+    "forma_pagamento": "dinheiro"
+  },
+  {
+    "id_pagamento": 22,
+    "id_locacao": 22,
+    "valor": 14.48,
+    "data_pagamento": "2001-12-16",
+    "forma_pagamento": "dinheiro"
+  },
+  {
+    "id_pagamento": 23,
+    "id_locacao": 23,
+    "valor": 9.28,
+    "data_pagamento": "2001-06-17",
+    "forma_pagamento": "cartão"
+  },
+  {
+    "id_pagamento": 24,
+    "id_locacao": 24,
+    "valor": 16.33,
+    "data_pagamento": "2002-05-07",
+    "forma_pagamento": "cartão"
+  },
+  {
+    "id_pagamento": 25,
+    "id_locacao": 25,
+    "valor": 8.4,
+    "data_pagamento": "2001-08-28",
+    "forma_pagamento": "dinheiro"
+  },
+  {
+    "id_pagamento": 26,
+    "id_locacao": 26,
+    "valor": 12.53,
+    "data_pagamento": "2001-10-21",
+    "forma_pagamento": "cartão"
+  },
+  {
+    "id_pagamento": 27,
+    "id_locacao": 27,
+    "valor": 11.26,
+    "data_pagamento": "2002-10-27",
+    "forma_pagamento": "cartão"
+  },
+  {
+    "id_pagamento": 28,
+    "id_locacao": 28,
+    "valor": 11.77,
+    "data_pagamento": "2001-10-02",
+    "forma_pagamento": "cartão"
+  },
+  {
+    "id_pagamento": 29,
+    "id_locacao": 29,
+    "valor": 13.77,
+    "data_pagamento": "2002-09-11",
+    "forma_pagamento": "boleto"
+  },
+  {
+    "id_pagamento": 30,
+    "id_locacao": 30,
+    "valor": 11.27,
+    "data_pagamento": "2002-06-14",
+    "forma_pagamento": "dinheiro"
+  },
+  {
+    "id_pagamento": 31,
+    "id_locacao": 31,
+    "valor": 8.6,
+    "data_pagamento": "2003-01-02",
+    "forma_pagamento": "cartão"
+  },
+  {
+    "id_pagamento": 32,
+    "id_locacao": 32,
+    "valor": 16.24,
+    "data_pagamento": "2001-03-21",
+    "forma_pagamento": "boleto"
+  },
+  {
+    "id_pagamento": 33,
+    "id_locacao": 33,
+    "valor": 7.73,
+    "data_pagamento": "2001-11-22",
+    "forma_pagamento": "boleto"
+  },
+  {
+    "id_pagamento": 34,
+    "id_locacao": 34,
+    "valor": 12.52,
+    "data_pagamento": "2001-11-21",
+    "forma_pagamento": "boleto"
+  },
+  {
+    "id_pagamento": 35,
+    "id_locacao": 35,
+    "valor": 7.6,
+    "data_pagamento": "2001-11-05",
+    "forma_pagamento": "cartão"
+  },
+  {
+    "id_pagamento": 36,
+    "id_locacao": 36,
+    "valor": 6.1,
+    "data_pagamento": "2002-01-29",
+    "forma_pagamento": "dinheiro"
+  },
+  {
+    "id_pagamento": 37,
+    "id_locacao": 37,
+    "valor": 7.18,
+    "data_pagamento": "2001-11-08",
+    "forma_pagamento": "cartão"
+  },
+  {
+    "id_pagamento": 38,
+    "id_locacao": 38,
+    "valor": 9.65,
+    "data_pagamento": "2001-08-12",
+    "forma_pagamento": "boleto"
+  },
+  {
+    "id_pagamento": 39,
+    "id_locacao": 39,
+    "valor": 14.18,
+    "data_pagamento": "2002-04-08",
+    "forma_pagamento": "dinheiro"
+  },
+  {
+    "id_pagamento": 40,
+    "id_locacao": 40,
+    "valor": 12.9,
+    "data_pagamento": "2001-04-05",
+    "forma_pagamento": "dinheiro"
+  },
+  {
+    "id_pagamento": 41,
+    "id_locacao": 41,
+    "valor": 8.52,
+    "data_pagamento": "2001-09-04",
+    "forma_pagamento": "boleto"
+  },
+  {
+    "id_pagamento": 42,
+    "id_locacao": 42,
+    "valor": 13.33,
+    "data_pagamento": "2001-02-05",
+    "forma_pagamento": "cartão"
+  },
+  {
+    "id_pagamento": 43,
+    "id_locacao": 43,
+    "valor": 8.84,
+    "data_pagamento": "2001-03-22",
+    "forma_pagamento": "dinheiro"
+  },
+  {
+    "id_pagamento": 44,
+    "id_locacao": 44,
+    "valor": 5.64,
+    "data_pagamento": "2002-02-17",
+    "forma_pagamento": "cartão"
+  },
+  {
+    "id_pagamento": 45,
+    "id_locacao": 45,
+    "valor": 15.61,
+    "data_pagamento": "2002-03-22",
+    "forma_pagamento": "dinheiro"
+  },
+  {
+    "id_pagamento": 46,
+    "id_locacao": 46,
+    "valor": 12.63,
+    "data_pagamento": "2001-09-21",
+    "forma_pagamento": "cartão"
+  },
+  {
+    "id_pagamento": 47,
+    "id_locacao": 47,
+    "valor": 14.47,
+    "data_pagamento": "2001-05-25",
+    "forma_pagamento": "dinheiro"
+  },
+  {
+    "id_pagamento": 48,
+    "id_locacao": 48,
+    "valor": 15.32,
+    "data_pagamento": "2002-09-12",
+    "forma_pagamento": "boleto"
+  },
+  {
+    "id_pagamento": 49,
+    "id_locacao": 49,
+    "valor": 12.64,
+    "data_pagamento": "2002-06-11",
+    "forma_pagamento": "dinheiro"
+  },
+  {
+    "id_pagamento": 50,
+    "id_locacao": 50,
+    "valor": 9.71,
+    "data_pagamento": "2002-05-08",
+    "forma_pagamento": "dinheiro"
+  }
+]

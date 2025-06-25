@@ -1,8 +1,3 @@
--- Apaga e recria o banco
-DROP DATABASE IF EXISTS locadora;
-CREATE DATABASE locadora;
-\c locadora;
-
 -- Tabela de filmes
 CREATE TABLE filmes (
     id_filme SERIAL PRIMARY KEY,
@@ -21,19 +16,6 @@ CREATE TABLE clientes (
     endereco VARCHAR(150) NOT NULL,
     telefone VARCHAR(20),
     email VARCHAR(100)
-);
-
--- Tabela de gêneros
-CREATE TABLE generos (
-    id_genero SERIAL PRIMARY KEY,
-    nome VARCHAR(50) NOT NULL
-);
-
--- Tabela de relação N:N entre filmes e gêneros
-CREATE TABLE filme_genero (
-    id_filme INT REFERENCES filmes(id_filme),
-    id_genero INT REFERENCES generos(id_genero),
-    PRIMARY KEY (id_filme, id_genero)
 );
 
 -- Tabela de locações
@@ -63,17 +45,3 @@ CREATE TABLE pagamentos (
     data_pagamento DATE NOT NULL,
     forma_pagamento VARCHAR(20)
 );
-
-
-INSERT INTO generos (nome) VALUES ('Drama'), ('Crime'), ('Histórico');
-
-INSERT INTO filmes (nome, ano, diretor, sinopse, capa_url)
-VALUES 
-('The Shawshank Redemption', 1994, 'Frank Darabont', 'Um banqueiro injustamente condenado faz amizade na prisão e busca redenção.', ''),
-('The Godfather', 1972, 'Francis Ford Coppola', 'Saga da família mafiosa Corleone.', ''),
-('Schindler''s List', 1993, 'Steven Spielberg', 'Oskar Schindler salva judeus durante o Holocausto.', '');
-
-INSERT INTO filme_genero (id_filme, id_genero) VALUES
-(1, 1), (1, 2),
-(2, 1), (2, 2),
-(3, 1), (3, 3);

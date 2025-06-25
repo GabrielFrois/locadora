@@ -1,0 +1,142 @@
+[
+  {
+    "id_cliente": 1,
+    "nome": "Amanda Costa",
+    "endereco": "Rua das Palmeiras, 12",
+    "telefone": "91234-5678",
+    "email": "amanda.costa@email.com"
+  },
+  {
+    "id_cliente": 2,
+    "nome": "Bruno Ferreira",
+    "endereco": "Av. Central, 1500",
+    "telefone": "98888-1122",
+    "email": "bruno.ferreira@email.com"
+  },
+  {
+    "id_cliente": 3,
+    "nome": "Camila Rocha",
+    "endereco": "Rua do Sol, 456",
+    "telefone": "99777-3344",
+    "email": "camila.rocha@email.com"
+  },
+  {
+    "id_cliente": 4,
+    "nome": "Diego Martins",
+    "endereco": "Av. dos Andradas, 900",
+    "telefone": "99999-0001",
+    "email": "diego.martins@email.com"
+  },
+  {
+    "id_cliente": 5,
+    "nome": "Eduarda Lima",
+    "endereco": "Rua Verdejante, 78",
+    "telefone": "91234-7890",
+    "email": "eduarda.lima@email.com"
+  },
+  {
+    "id_cliente": 6,
+    "nome": "Felipe Almeida",
+    "endereco": "Rua 13 de Maio, 202",
+    "telefone": "99881-2233",
+    "email": "felipe.almeida@email.com"
+  },
+  {
+    "id_cliente": 7,
+    "nome": "Gabriela Torres",
+    "endereco": "Av. das Nações, 980",
+    "telefone": "91111-4455",
+    "email": "gabriela.torres@email.com"
+  },
+  {
+    "id_cliente": 8,
+    "nome": "Henrique Melo",
+    "endereco": "Rua das Acácias, 33",
+    "telefone": "98765-6789",
+    "email": "henrique.melo@email.com"
+  },
+  {
+    "id_cliente": 9,
+    "nome": "Isabela Nogueira",
+    "endereco": "Av. João Pessoa, 222",
+    "telefone": "99900-1122",
+    "email": "isabela.nogueira@email.com"
+  },
+  {
+    "id_cliente": 10,
+    "nome": "João Victor Silva",
+    "endereco": "Rua da Aurora, 70",
+    "telefone": "99887-9900",
+    "email": "joao.silva@email.com"
+  },
+  {
+    "id_cliente": 11,
+    "nome": "Karen Souza",
+    "endereco": "Rua Presidente Vargas, 400",
+    "telefone": "91234-5566",
+    "email": "karen.souza@email.com"
+  },
+  {
+    "id_cliente": 12,
+    "nome": "Lucas Carvalho",
+    "endereco": "Av. Brasil, 1080",
+    "telefone": "98777-6655",
+    "email": "lucas.carvalho@email.com"
+  },
+  {
+    "id_cliente": 13,
+    "nome": "Mariana Ribeiro",
+    "endereco": "Rua Bahia, 300",
+    "telefone": "99333-4455",
+    "email": "mariana.ribeiro@email.com"
+  },
+  {
+    "id_cliente": 14,
+    "nome": "Nathan Oliveira",
+    "endereco": "Rua Pedro Álvares, 765",
+    "telefone": "99444-8899",
+    "email": "nathan.oliveira@email.com"
+  },
+  {
+    "id_cliente": 15,
+    "nome": "Olívia Castro",
+    "endereco": "Rua das Rosas, 88",
+    "telefone": "99888-1123",
+    "email": "olivia.castro@email.com"
+  },
+  {
+    "id_cliente": 16,
+    "nome": "Pedro Henrique Costa",
+    "endereco": "Av. T-63, 409",
+    "telefone": "91122-3344",
+    "email": "pedro.costa@email.com"
+  },
+  {
+    "id_cliente": 17,
+    "nome": "Quezia Fernandes",
+    "endereco": "Rua do Comércio, 99",
+    "telefone": "98766-7788",
+    "email": "quezia.fernandes@email.com"
+  },
+  {
+    "id_cliente": 18,
+    "nome": "Rodrigo Barros",
+    "endereco": "Rua Ceará, 150",
+    "telefone": "91222-3344",
+    "email": "rodrigo.barros@email.com"
+  },
+  {
+    "id_cliente": 19,
+    "nome": "Sabrina Moraes",
+    "endereco": "Av. Dom Pedro II, 55",
+    "telefone": "99933-4455",
+    "email": "sabrina.moraes@email.com"
+  },
+  {
+    "id_cliente": 20,
+    "nome": "Thiago Santana",
+    "endereco": "Rua do Imperador, 401",
+    "telefone": "99111-8899",
+    "email": "thiago.santana@email.com"
+  }
+]
